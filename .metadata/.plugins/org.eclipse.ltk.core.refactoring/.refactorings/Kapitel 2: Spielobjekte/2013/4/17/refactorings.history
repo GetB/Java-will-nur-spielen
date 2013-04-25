@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;geometricalObjects.SimpelOval.java&apos; to &apos;SimpleOval.java&apos;&#x0A;- Original project: &apos;Kapitel 2: Spielobjekte&apos;&#x0A;- Original element: &apos;geometricalObjects.SimpelOval.java&apos;&#x0A;- Renamed element: &apos;geometricalObjects.SimpleOval.java&apos;" description="Rename compilation unit &apos;SimpelOval.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;geometricalObjects{SimpelOval.java" name="SimpleOval.java" references="false" stamp="1366878235589" version="1.0"/>
+</session>

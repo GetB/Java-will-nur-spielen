@@ -1,0 +1,12 @@
+{
+  "/Users/Leon/Java will nur spielen/Kapitel 2: Spielobjekte/src": {
+    "location": "/Users/Leon/Java will nur spielen/Kapitel 2: Spielobjekte/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/Users/Leon/Java will nur spielen/Kapitel 2: Spielobjekte/src\u0027. Skipped."
+  },
+  "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar": {
+    "coordinate": "jre:jre:zip:call:1.0.0",
+    "location": "/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar",
+    "status": "RESOLVED"
+  }
+}

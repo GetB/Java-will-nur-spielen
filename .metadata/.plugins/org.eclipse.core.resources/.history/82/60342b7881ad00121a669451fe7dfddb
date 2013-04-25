@@ -1,0 +1,23 @@
+package geometricalObjects;
+
+public class SimpelOval extends GeometricObject{
+	
+	public SimpelOval(Vertex pos, double w, double h){
+		super(pos,w,h);
+	}
+	
+	public SimpelOval(double x, double y, double w, double h){
+		super(new Vertex(x,y),w,h);
+	}
+	
+	@Override
+	public double area(){
+		return Math.PI * this.getWidth() * this.getHeight() / 4;
+	}
+	
+	@Override
+	public String toString(){
+		return "SimpleOval (" + super.toString() + ")";
+	}
+
+}
