@@ -2,9 +2,16 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="geometricalObjects.Vertex"/>
 <fullyQualifiedTypeName name="geometricalObjects.SimpelOval"/>
-<fullyQualifiedTypeName name="geometricalObjects.GeometricObject"/>
-<fullyQualifiedTypeName name="javax.swing.JPanel"/>
-<fullyQualifiedTypeName name="java.awt.Graphics"/>
-<fullyQualifiedTypeName name="javax.swing.JFrame"/>
 <fullyQualifiedTypeName name="Swing.FirstPanel"/>
+<fullyQualifiedTypeName name="geometricalObjects.GeometricObject"/>
+<fullyQualifiedTypeName name="javax.swing.JFrame"/>
+<fullyQualifiedTypeName name="javax.swing.JComponent"/>
+<fullyQualifiedTypeName name="javax.swing.JPanel"/>
+<fullyQualifiedTypeName name="java.awt.Dimension"/>
+<fullyQualifiedTypeName name="SwingObjects.SizedPanel"/>
+<fullyQualifiedTypeName name="SwingObjects.SimpleSizedPanel"/>
+<fullyQualifiedTypeName name="SwingObjects.PaintablePanel"/>
+<fullyQualifiedTypeName name="SwingObjects.Paintable"/>
+<fullyQualifiedTypeName name="java.awt.Graphics"/>
+<fullyQualifiedTypeName name="SwingObjects.ShowInFrame"/>
 </qualifiedTypeNameHistroy>

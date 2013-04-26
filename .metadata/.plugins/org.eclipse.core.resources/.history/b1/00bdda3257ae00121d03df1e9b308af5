@@ -1,0 +1,11 @@
+package geometricalObjects;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		GeometricObject geo = new GeometricObject(new Vertex(20,30), 50, 7);
+		System.out.println(geo.area());
+		System.out.println(geo.toString());
+	}
+
+}

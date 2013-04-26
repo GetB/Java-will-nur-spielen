@@ -1,9 +1,0 @@
-package geometricalObjects;
-
-public class SimpelOval extends GeometricObject{
-	
-	public SimpelOval(double w, double h, Vertex pos){
-		super(w,h,pos);
-	}
-
-}

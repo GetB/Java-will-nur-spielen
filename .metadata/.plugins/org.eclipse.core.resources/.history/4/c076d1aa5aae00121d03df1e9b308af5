@@ -1,0 +1,7 @@
+package SwingObjects;
+
+import geometricalObjects.SimpleOval;
+
+public class PaintableOval extends SimpleOval {
+
+}
